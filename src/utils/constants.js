@@ -1,0 +1,8 @@
+export const ROUTE_CAMERA = 'Camera Screen'
+export const ROUTE_COMPLETED_ADVERTS = 'Completed Adverts'
+export const ROUTE_NEW_ADVERTS = 'New Adverts'
+export const ROUTE_PROCESS_ADVERTS = 'Process Advert'
+export const ROUTE_SIGN_IN = 'Sign In'
+export const ROUTE_SIGN_UP = 'Sign Up'
+export const ROUTE_TAKEN_ADVERTS = 'Taken Adverts'
+export const ROUTE_TABS = 'Tabs'

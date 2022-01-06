@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651899146164",
+    "project_id": "hibridinisprojektas",
+    "storage_bucket": "hibridinisprojektas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651899146164:android:d9dd1bafee4c83b7edece1",
+        "android_client_info": {
+          "package_name": "com.hibridinis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651899146164-vjn29kkelijg0hnl7qbrgsffdokmiie2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hibridinis",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "651899146164-0sl714sg1ucfhg1lmtr40fa5a736rqku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-zlB8wOWO0NOsPugRCHhRlzGdLC2RqVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651899146164-0sl714sg1ucfhg1lmtr40fa5a736rqku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
